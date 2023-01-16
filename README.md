@@ -1,4 +1,4 @@
-# GPT-3 Genius
+# GPT Sheets
 
 A Google Sheets custom function that uses the OpenAI API to generate text based on a given prompt. 
 
